@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm just a random guy in **Iran** trying to become a great programer.
+
+currently working on some *graphics* and *audio* things and damn these stuff are hard.
+
+low level languages are my favorites and I don't like loosely typed languages.
+
+and other stuff I like yapping.
 <!--
 **ArmanLK/ArmanLK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
